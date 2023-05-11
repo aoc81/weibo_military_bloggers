@@ -6,7 +6,7 @@ Example
 
 ```
 {
-"profile_link": "https://weibo.com/u5074648251",
+"profile_link": "https://weibo.com/u/5074648251",
 "id": "5074648251",
 "username": "暴哥正能量",
 "bio": "知名军事博主 头条文章作者",
